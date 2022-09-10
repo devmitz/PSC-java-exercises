@@ -1,8 +1,6 @@
-package aula03;
-
 import java.util.Scanner;
 
-public class Aula03 {
+public class Aula03ex01Presencial {
 
     public static void main(String[] args) {
         

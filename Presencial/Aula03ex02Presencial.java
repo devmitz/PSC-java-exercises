@@ -1,10 +1,10 @@
 
 import java.util.Scanner;
 
-public class maiorDe3 {
+public class Aula03ex02Presencial {
     
     public static void main (String args []) {
-        Scanner leitor = new Scanner (System.in);
+        final Scanner leitor = new Scanner (System.in);
         
         int numero1, numero2, numero3;
         
