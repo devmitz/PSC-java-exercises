@@ -4,7 +4,8 @@ import java.util.Scanner;
 public class Aula03ex02Presencial {
     
     public static void main (String args []) {
-        final Scanner leitor = new Scanner (System.in);
+        
+        Scanner leitor = new Scanner (System.in);
         
         int numero1, numero2, numero3;
         
