@@ -31,7 +31,7 @@ public class Aula05ex7 {
 
         JOptionPane.showMessageDialog(null, "O número total de pessoas com idade de até 15 anos são: " + idadeMenor15 + " pessoas.");
         JOptionPane.showMessageDialog(null, "O número total de pessoas com idade de 16 anos até 30 anos são: " + idadeAte30 + " pessoas.");
-        JOptionPane.showMessageDialog(null, "O número total de pessoas com idade de 31 anos até 45 anos são: " + idadeAte30 + " pessoas.");
+        JOptionPane.showMessageDialog(null, "O número total de pessoas com idade de 31 anos até 45 anos são: " + idadeAte45 + " pessoas.");
         JOptionPane.showMessageDialog(null, "O número total de pessoas com idade de maior 50 anos são: " + idadeMaior50 + " pessoas.");
 
     }
